@@ -1,0 +1,16 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar{
+    padding: 10px;
+    background-color: rgb(62, 202, 190) !important;
+    box-shadow: 3px 3px 5px 0px gray;
+    margin-bottom: 50px;
+}
+.cart-bar{
+    padding: 15px;
+    background-color: coral;
+}
